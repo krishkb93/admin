@@ -1,0 +1,84 @@
+body{
+    background-color: #151A30;
+}
+.bg-color{
+    background-color: #222B45;
+}
+.btn-color{
+    background-color: #151A30;
+}
+.border{
+    border-bottom: 1px solid #151A30!important;
+}
+.text-color{
+    color: #8F9BB3;
+}
+.pink{
+    background-color: #ff708d;
+}
+ul, ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    box-shadow:  0 .5rem 1rem 0 #1a1f33;
+}
+.accordion-button{
+    box-shadow: none !important;
+}
+.accordion-button:not(.collapsed){
+    background-color: #222B45;
+}
+.btn2{
+    width: 96px;
+    height: 40px;
+}
+.z-index{
+    z-index: 99999;
+}
+.icon-box{
+    width: 92px;
+    height: 74px;
+    line-height: 112px;
+}
+.btn1{
+    width: 140px;
+    height: 50px;
+}
+.hire{
+    padding: 12px;
+}
+.form-select{
+    width: 105px;
+    height: 40px;
+}
+.text span{
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.sumery{
+    padding: 24px 64px 16px;
+}
+.progres{
+    width: 11px;
+    height: 14px;
+    background-color: #151A30;
+}
+.failur{
+    width: 11px;
+    height: 10px;
+}
+.up1{
+    background-color: #00d68f;
+}
+.down1{
+    background-color:#ff3d71 ;
+}
+.up{
+    color: #00d68f;
+}
+.down{
+    color: #ff3d71;
+}
